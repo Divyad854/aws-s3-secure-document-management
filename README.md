@@ -1,4 +1,4 @@
-# Enterprise Secure Document Management System (AWS S3)
+# Document Management System (AWS S3)
 
 ## 📌 Overview
 This project demonstrates a secure, enterprise-style document management system using Amazon S3.
